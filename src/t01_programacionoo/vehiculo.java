@@ -1,5 +1,5 @@
 package t01_programacionoo;
 
-public class vehiculo {
+public class vehiculo extends consecionario {
 
 }
