@@ -7,6 +7,7 @@ public class Maininvertida {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
+		// Buenas Noches
 Scanner leer = new Scanner(System.in); 
 		
 		System.out.println("Ingrese numero de asteriscos: ");
