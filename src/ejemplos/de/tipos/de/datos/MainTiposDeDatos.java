@@ -4,6 +4,7 @@ public class MainTiposDeDatos {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
   short cantidadestudiantes = 1000; 
   byte entradacircuito = 1; 
   int cantciudadanos = 10000; 
