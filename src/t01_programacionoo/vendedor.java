@@ -6,7 +6,7 @@ public class vendedor extends consecionario{
 	
 	void vendercliente() {
 		 cliente vender = new cliente(); 
-		 vender.comprar(nombre);
+		 
 	}
 	
 	void comprar() {
