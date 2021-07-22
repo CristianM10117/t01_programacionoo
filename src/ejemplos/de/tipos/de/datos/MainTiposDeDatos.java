@@ -10,6 +10,7 @@ public class MainTiposDeDatos {
   int cantciudadanos = 10000; 
   long cantidadmundo = 10000000; 
   float sueldo = (short) 1000.57;
+  
   double saldobanco = 10000000.43; 
   
   char opcionmenu = 'C';
