@@ -6,6 +6,7 @@ public class MainTiposDeDatos {
 		// TODO Auto-generated method stub
 		
   short cantidadestudiantes = 1000; 
+  
   byte entradacircuito = 1; 
   int cantciudadanos = 10000; 
   long cantidadmundo = 10000000; 
