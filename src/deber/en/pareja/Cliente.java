@@ -10,6 +10,7 @@ void DatosCliente(String nombre, String apellido, String cedula, String placa, S
 	System.out.println("Placas: "+placa);
 	System.out.println("Diesel o Gasolina: "+GD);
 	System.out.println("Consumo final en dolares: "+consumo);
+
 }
 	    }
 
