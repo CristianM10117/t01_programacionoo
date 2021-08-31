@@ -1,6 +1,6 @@
 package prueba.pasajeros;
 
-public class PasajeroAdolescente extends Avion{
+public class PasajeroAdolescente extends Pasajeros{
 	
 	String nombre;
 	String apellido; 
