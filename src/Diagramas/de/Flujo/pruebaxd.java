@@ -26,10 +26,7 @@ public class pruebaxd {
 		}else if (op == 3) {
 		
 			System.out.println("SU CUENTA HA SIDO BLOQUEADA. ");
-		}
-		
-
-        
+		}        
 }while(op != 4); 
 	}
 }
